@@ -4,7 +4,7 @@ slidenumbers: false
 
 ## All the Basics[^*]
 
-[^*]: http://bit.ly/mlib_awd
+[^*]: <https://github.com/JacobR/accessible_web_presentation/>
 
 ---
 
